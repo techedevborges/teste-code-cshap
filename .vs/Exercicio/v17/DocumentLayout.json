@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\Teste-Desenvolvedor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|d:\\workspace\\teste-desenvolvedor\\questao1\\questao1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|solutionrelative:questao1\\questao1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Questao1",
+              "DocumentMoniker": "D:\\workspace\\Teste-Desenvolvedor\\Questao1\\Questao1.csproj",
+              "RelativeDocumentMoniker": "Questao1\\Questao1.csproj",
+              "ToolTip": "D:\\workspace\\Teste-Desenvolvedor\\Questao1\\Questao1.csproj",
+              "RelativeToolTip": "Questao1\\Questao1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T17:46:15.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

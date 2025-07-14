@@ -1,0 +1,14 @@
+D:\workspace\Teste-Desenvolvedor\Questao1\bin\Debug\net6.0\Questao1.exe
+D:\workspace\Teste-Desenvolvedor\Questao1\bin\Debug\net6.0\Questao1.deps.json
+D:\workspace\Teste-Desenvolvedor\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+D:\workspace\Teste-Desenvolvedor\Questao1\bin\Debug\net6.0\Questao1.dll
+D:\workspace\Teste-Desenvolvedor\Questao1\bin\Debug\net6.0\Questao1.pdb
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\Questao1.dll
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\Questao1.pdb
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+D:\workspace\Teste-Desenvolvedor\Questao1\obj\Debug\net6.0\ref\Questao1.dll
